@@ -1,10 +1,10 @@
 # Santa Barbara Rainfall Prediction
 
-[![tests](https://github.com/IcedLimes/sb-rainfall-prediction/actions/workflows/tests.yml/badge.svg)](https://github.com/IcedLimes/sb-rainfall-prediction/actions/workflows/tests.yml)
+[![tests](https://github.com/IcedLimes/uc-santa-barbara-rainfall-prediction/actions/workflows/tests.yml/badge.svg)](https://github.com/IcedLimes/uc-santa-barbara-rainfall-prediction/actions/workflows/tests.yml)
 
 A machine learning model that predicts whether it will rain **tomorrow** at Santa Barbara Municipal Airport, using today's weather observations. The project is built in R with [tidymodels](https://www.tidymodels.org/) on nearly 19 years of NOAA daily weather data (2006–2024). It compares four classifiers (logistic regression, linear and quadratic discriminant analysis, and k-nearest neighbours) against simple forecasting rules.
 
-**[Read the full report →](https://IcedLimes.github.io/sb-rainfall-prediction/)**
+**[Read the full report →](https://IcedLimes.github.io/uc-santa-barbara-rainfall-prediction/)**
 
 ## The problem
 
